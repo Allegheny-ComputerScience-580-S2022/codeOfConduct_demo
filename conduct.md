@@ -10,7 +10,6 @@ Add Your Account Name Here
 #### Submission Date
 9 March 2022
 
-
 ## Assessment Key
 
 * A = Acceptable
@@ -52,15 +51,12 @@ this rule that take into account emergencies and illnesses.
 * Acceptable Conduct (A):
   * Members shall ...
 
-
 * Unacceptable Conduct (U):
   * Members shall not ...
 
-
 ### Deadlines
 
-Students are expected to follow the due dates of assignments online through the
-course website and on Slack. Exceptions should be made for emergencies and illnesses.
+Students are expected to follow the due dates of assignments online through the course website and on Slack. Exceptions should be made for emergencies and illnesses.
 
 * Acceptable Conduct (A):
   * Members shall ...
@@ -83,9 +79,7 @@ watch and participate in Slack, Zoom, and email communications.
 
 ## Team Work
 
-Some of the class activities and lab projects will require team collaboration.
-This section of the Code of Conduct will provide guidance on effective and
-inclusive team work.
+Some of the class activities and lab projects will require team collaboration. This section of the Code of Conduct will provide guidance on effective and inclusive team work.
 
 ### Participation
 
@@ -106,7 +100,6 @@ truly be all there.
 
 
 ### Decisions
-
 The majority of individuals in a team should agree on a given decision before the
 project is implemented. It should be made with supporting evidence that shows
 that the decision is productive. When unsure about making a decision
