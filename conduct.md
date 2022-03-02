@@ -1,13 +1,21 @@
 ## Lab 1 Assignment
-### Code of Conduct
 
-#### Name
+## Code of Conduct
+
+## Name
+
 Add Your Name Here
 
 #### GitHub Account Name
+
 OBC new
 
-#### Submission Date
+## GitHub Account Name
+
+Add Your Account Name Here
+
+## Submission Date
+
 9 March 2022
 
 ## Assessment Key
@@ -76,7 +84,6 @@ watch and participate in Slack, Zoom, and email communications.
 * Unacceptable Conduct (U):
   * Members shall not ...
 
-
 ## Team Work
 
 Some of the class activities and lab projects will require team collaboration. This section of the Code of Conduct will provide guidance on effective and inclusive team work.
@@ -94,10 +101,8 @@ truly be all there.
 * Acceptable Conduct (A):
   * Members shall ...
 
-
 * Unacceptable Conduct (U):
   * Members shall not ...
-
 
 ### Decisions
 The majority of individuals in a team should agree on a given decision before the
@@ -110,10 +115,8 @@ how long a decision will take to implement.
 * Acceptable Conduct (A):
   * Members shall ...
 
-
 * Unacceptable Conduct (U):
   * Members shall not ...
-
 
 ### Postmortems
 
@@ -125,10 +128,8 @@ provide great insight in how to improve in future projects.
 * Acceptable Conduct (A):
   * Members shall ...
 
-
 * Unacceptable Conduct (U):
   * Members shall not ...
-
 
 ### Conflicts
 
